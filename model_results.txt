@@ -1,0 +1,5 @@
+Movie Genre Classification Results
+===================================
+Accuracy: 33.93%
+Test samples: 47652
+Predicted genre for sample movie: Crime
